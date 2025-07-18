@@ -55,7 +55,7 @@ GarageSale is a full-featured client for managing online and local garage sales.
 ## 🖼️ Preview
 
 ![screenshot1](https://www.iwascoding.com/Images/GarageSale/whatsnew/darkMode.png)  
-![screenshot2](https://static.macupdate.com/screenshots/288415/m/garagesale-screenshot.png?v=1654278957)
+![screenshot2](https://www.iwascoding.com/Images/eBayAuctionImages/gs9/en/previewMode.png)
 
 ---
 
